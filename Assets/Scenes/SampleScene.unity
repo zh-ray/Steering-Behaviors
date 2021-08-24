@@ -189,8 +189,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentForce: {x: 0, y: 0, z: 0}
   finalForce: {x: 0, y: 0, z: 0}
+  steerings: []
   rotationSpeed: 5
   maxSpeed: 10
+  mass: 1
+  computerInternal: 0.2
+  isPlane: 0
 --- !u!65 &426974934
 BoxCollider:
   m_ObjectHideFlags: 0
