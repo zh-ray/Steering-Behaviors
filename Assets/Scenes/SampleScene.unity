@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -341,7 +341,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: d6144eca967705d438c78d0a74b58ab1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b0c9f055b2456694dbc53e974178a885, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -368,7 +368,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 753093485}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4422ad3352cd99e4db1b38c3f736d7c3, type: 3}
+  m_Script: {fileID: 11500000, guid: 52ad697b859ee8d42b036d7930f76496, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   currentForce: {x: 0, y: 0, z: 0}
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 753093485}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 46d2c7d1c0f4a9e4da87fe44076960dd, type: 3}
+  m_Script: {fileID: 11500000, guid: ca57ece5f07bebc408eefbaea87d1b99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   expectForce: {x: 0, y: 0, z: 0}
@@ -639,7 +639,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: afa04b8840c12634b91cd3982cd36325, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f41cc45aebfb81d4099d24e5f78fd9aa, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
