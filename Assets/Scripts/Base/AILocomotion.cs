@@ -14,7 +14,7 @@ namespace AI.Steering
         {
             if (currentForce != Vector3.zero)
             {
-                var dir = Quaternion.LookRotation(currentForce, Vector3.up);
+                var dir = Quaternion.LookRotation(currentForce);
                 dir.x = 0;
                 dir.y = 0;
 
