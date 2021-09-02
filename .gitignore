@@ -2,7 +2,10 @@
 /[Tt]emp/
 /[Ob]bj/
 /[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
 
+.vscode/
 /ProjectSettings/
 /UserSettings/
 
@@ -15,8 +18,6 @@
 *.userprefs
 *.pidb
 *.booproj
-
-*.meta
 
 sysinfo.txt
 settings.json
