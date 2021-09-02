@@ -3,6 +3,9 @@
 /[Ob]bj/
 /[Bb]uild/
 
+/ProjectSettings/
+/UserSettings/
+
 *.csproj
 *.unityproj
 *.sln
